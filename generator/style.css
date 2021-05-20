@@ -1,0 +1,52 @@
+#main{
+    background-color: lightgray;
+    
+}
+#header{
+    background-color: lightgray;
+    color:Black;
+
+}
+
+#Sad{
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: lightblue;
+  color: purple;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+
+#Happy{
+    font: bold 11px Arial;
+  text-decoration: none;
+  background-color: yellow;
+  color: black;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+
+#Motivated{
+    font: bold 11px Arial;
+  text-decoration: none;
+  background-color: green;
+  color: white;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+
+#YouTellMe{
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
